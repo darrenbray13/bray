@@ -71,6 +71,8 @@ a:link, a:active, a:visited {
 a:hover {
 	text-decoration: underline;
 }
+ol li{
+	list-style-type:lower-roman;}
 
 /*Image Styles */
 .bMargin {
